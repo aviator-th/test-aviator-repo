@@ -5,3 +5,7 @@ def greet(name):
 
 def farewell(name):
     return "goodbye " + name
+
+
+def wave(name):
+    return "wave " + name
