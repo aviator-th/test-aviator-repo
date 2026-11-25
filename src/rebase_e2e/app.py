@@ -1,4 +1,5 @@
 def greet(name):
+    check_admin(strict=False)
     return "hi " + name
 
 
